@@ -1,0 +1,32 @@
+*{
+font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+font-size: 100px;
+text-align: center;
+}
+p{
+font-size: 15px;
+margin: 9px;
+}	
+img{
+width: 450px;
+border: 2px solid #663FFB;
+border-radius: 12px;
+}
+#imagens{
+display: flex;
+justify-content: center; 
+}
+A{
+font-family: OpenSans-Bold;
+font-size: 15px;
+text-decoration: underline;
+color:  black;	
+}
+body{
+background-image: linear-gradient( #6EFFFE, #676CFB);
+background-repeat: no-repeat;
+
+}
